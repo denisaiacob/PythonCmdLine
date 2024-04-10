@@ -1,8 +1,6 @@
 # PythonCmdLine
-PythonCmdLine
 
-## TODO
-Implement the following commands:
+I implemented the following commands:
 
 `-> cd <dir_name> ( should work with "." and ".." )`
 
@@ -22,12 +20,9 @@ Implement the following commands:
 
 `-> help ( display how other comands work )`
 
-!! Do verifications to make sure files and directories exist
 
 ## Utils
 
 `import os`
 
 `import argparse`
-
-maybe `import sys`
